@@ -65,7 +65,7 @@ a {
 
 nav {
     display: flex;
-    padding: 32px;
+    padding-top: 32px;
 }
 
 .nav__container {
